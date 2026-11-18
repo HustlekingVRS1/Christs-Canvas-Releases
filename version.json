@@ -1,7 +1,7 @@
 {
-  "minimumBuild": 1,
-  "latestBuild": 1,
-  "latestVersion": "1.0.0",
-  "apkUrl": "https://github.com/HustlekingVRS1/Christs-Canvas-Releases/releases/download/v1.0.0/christs-canvas-1.0.0.apk",
-  "releaseNotes": "First release."
+  "minimumBuild": 2,
+  "latestBuild": 2,
+  "latestVersion": "1.1.0",
+  "apkUrl": "https://github.com/HustlekingVRS1/Christs-Canvas-Releases/releases/download/v1.1.0/christs-canvas-1.1.0.apk",
+  "releaseNotes": "Map rotation, rotatable shapes, house auto-outline, dark theme and Settings, activity log filters, and pop-ups no longer cover buttons."
 }

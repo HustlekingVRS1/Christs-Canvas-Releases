@@ -1,2 +1,2 @@
 # Christs-Canvas-Releases
-Signed APK releases and version manifest for Christ's Canvas
+Version manifest (`version.json`) and building footprints for Christ's Canvas. The app is installed from Google Play; APKs are no longer published here.

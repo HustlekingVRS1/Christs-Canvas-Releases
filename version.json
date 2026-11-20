@@ -1,7 +1,7 @@
 {
   "minimumBuild": 2,
-  "latestBuild": 2,
-  "latestVersion": "1.1.0",
+  "latestBuild": 10,
+  "latestVersion": "1.7.0",
   "apkUrl": "https://play.google.com/store/apps/details?id=com.jr.christscanvas",
-  "releaseNotes": "Map rotation, rotatable shapes, house auto-outline, dark theme and Settings, activity log filters, and pop-ups no longer cover buttons."
+  "releaseNotes": "Map and Message Board tabs, 30-day Message Board, Terrain removed, clear denied list, shape flash and selected-shape outline."
 }

@@ -1,7 +1,7 @@
 {
   "minimumBuild": 2,
-  "latestBuild": 10,
-  "latestVersion": "1.7.0",
+  "latestBuild": 11,
+  "latestVersion": "1.7.1",
   "apkUrl": "https://play.google.com/store/apps/details?id=com.jr.christscanvas",
-  "releaseNotes": "Map and Message Board tabs, 30-day Message Board, Terrain removed, clear denied list, shape flash and selected-shape outline."
+  "releaseNotes": "Renamed \"Block\" shapes to \"Section\"."
 }

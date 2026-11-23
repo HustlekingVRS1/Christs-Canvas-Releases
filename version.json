@@ -1,7 +1,7 @@
 {
   "minimumBuild": 2,
-  "latestBuild": 11,
-  "latestVersion": "1.7.1",
+  "latestBuild": 12,
+  "latestVersion": "1.8.0",
   "apkUrl": "https://play.google.com/store/apps/details?id=com.jr.christscanvas",
-  "releaseNotes": "Renamed \"Block\" shapes to \"Section\"."
+  "releaseNotes": "User list tab, zoom-to-houses button, Message Board replies and @mentions, light map in dark mode, notification settings."
 }
